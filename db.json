@@ -1,0 +1,2037 @@
+{
+    "pets": [
+        {
+            "id": "1",
+            "name": "Buddy",
+            "type": "dog",
+            "breed": "Golden Retriever",
+            "age": "young",
+            "size": "large",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "high",
+            "location": {
+                "city": "New York",
+                "state": "NY",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1676389282268-68e11d91d8a4?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Buddy is a young and energetic Golden Retriever who loves to play and is great with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "2",
+            "name": "Max",
+            "type": "dog",
+            "breed": "Beagle",
+            "age": "adult",
+            "size": "medium",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "moderate",
+            "location": {
+                "city": "Seattle",
+                "state": "WA",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1661962702757-548c35244619?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Max is a playful Beagle who loves to play fetch and is great with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "3",
+            "name": "Bella",
+            "type": "dog",
+            "breed": "Labrador Retriever",
+            "age": "young",
+            "size": "large",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "high",
+            "location": {
+                "city": "Austin",
+                "state": "TX",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1601758063890-1167f394febb?q=80&w=2002&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Bella is a young and energetic Labrador Retriever, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "4",
+            "name": "Charlie",
+            "type": "dog",
+            "breed": "Beagle",
+            "age": "adult",
+            "size": "medium",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "moderate",
+            "location": {
+                "city": "Dallas",
+                "state": "TX",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1664303468933-947e1c9f38eb?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Charlie is a playful Beagle who loves to play fetch and is great with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "5",
+            "name": "Luna",
+            "type": "dog",
+            "breed": "Siberian Husky",
+            "age": "young",
+            "size": "large",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "high",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "high",
+            "location": {
+                "city": "San Diego",
+                "state": "CA",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1664303028333-80fef943aea5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Luna is a young Siberian Husky who is playful and affectionate, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "6",
+            "name": "Rocky",
+            "type": "dog",
+            "breed": "Bulldog",
+            "age": "adult",
+            "size": "medium",
+            "energy": "low",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "calm"
+            ],
+            "specialNeeds": [
+                "medical"
+            ],
+            "training": "basic",
+            "shedding": "moderate",
+            "location": {
+                "city": "Chicago",
+                "state": "IL",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1531738575367-08d4cd398bf9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Rocky is a calm Bulldog with some medical needs, great with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "7",
+            "name": "Daisy",
+            "type": "dog",
+            "breed": "Shih Tzu",
+            "age": "senior",
+            "size": "small",
+            "energy": "low",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "medical"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Miami",
+                "state": "FL",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1668062459573-ab0ddf106283?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Daisy is a calm and affectionate Shih Tzu with some medical needs, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "8",
+            "name": "Shadow",
+            "type": "dog",
+            "breed": "German Shepherd",
+            "age": "adult",
+            "size": "large",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "behavioral"
+            ],
+            "training": "well-trained",
+            "shedding": "high",
+            "location": {
+                "city": "Phoenix",
+                "state": "AZ",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1677181729012-6c926b17efdf?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Shadow is a well-trained German Shepherd with high energy, good with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "9",
+            "name": "Cooper",
+            "type": "dog",
+            "breed": "Pomeranian",
+            "age": "young",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "high",
+            "location": {
+                "city": "Boston",
+                "state": "MA",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1517443191895-202c31142ccd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Cooper is a playful and affectionate Pomeranian who loves to be around kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "10",
+            "name": "Bailey",
+            "type": "dog",
+            "breed": "Australian Shepherd",
+            "age": "young",
+            "size": "medium",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "high",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "moderate",
+            "location": {
+                "city": "Jacksonville",
+                "state": "FL",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1664391969429-759e9c610fb0?q=80&w=1954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Bailey is a playful and affectionate Australian Shepherd, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "11",
+            "name": "Rex",
+            "type": "dog",
+            "breed": "Doberman",
+            "age": "adult",
+            "size": "large",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "moderate",
+            "location": {
+                "city": "New York",
+                "state": "NY",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1668257259669-f82c2506615e?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Rex is a calm and affectionate Doberman, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "12",
+            "name": "Zoe",
+            "type": "dog",
+            "breed": "Chihuahua",
+            "age": "adult",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "alone"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Denver",
+                "state": "CO",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1710406095492-7e62eba19745?q=80&w=1804&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Zoe is a playful Chihuahua who enjoys being alone.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "13",
+            "name": "Lilly",
+            "type": "dog",
+            "breed": "Poodle",
+            "age": "young",
+            "size": "medium",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "high",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "low",
+            "location": {
+                "city": "San Antonio",
+                "state": "TX",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1504826260979-242151ee45b7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Lilly is a playful and affectionate Poodle, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "14",
+            "name": "Lucy",
+            "type": "dog",
+            "breed": "French Bulldog",
+            "age": "adult",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "low",
+            "location": {
+                "city": "Charlotte",
+                "state": "NC",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1669040674572-836c64a3ac70?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Lucy is a calm and affectionate French Bulldog, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "15",
+            "name": "Milo",
+            "type": "dog",
+            "breed": "Chihuahua",
+            "age": "adult",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "alone"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Denver",
+                "state": "CO",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Milo is a playful Chihuahua who enjoys being alone.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "16",
+            "name": "Oscar",
+            "type": "dog",
+            "breed": "Cocker Spaniel",
+            "age": "adult",
+            "size": "medium",
+            "energy": "medium",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "moderate",
+            "location": {
+                "city": "Atlanta",
+                "state": "GA",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1676914697574-4c07313ec055?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Oscar is a playful and affectionate Cocker Spaniel, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "17",
+            "name": "Jack",
+            "type": "dog",
+            "breed": "Jack Russell Terrier",
+            "age": "young",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "moderate",
+            "location": {
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1700403586581-4aa6b8640492?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Jack is a playful Jack Russell Terrier who loves to play and is great with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "18",
+            "name": "Sadie",
+            "type": "dog",
+            "breed": "German Shorthaired Pointer",
+            "age": "adult",
+            "size": "large",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "high",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "high",
+            "location": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1522008693277-086ad6075b78?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Sadie is a playful and affectionate German Shorthaired Pointer, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "19",
+            "name": "Buster",
+            "type": "dog",
+            "breed": "Boston Terrier",
+            "age": "adult",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "low",
+            "location": {
+                "city": "Portland",
+                "state": "OR",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1601758261049-55d060e1159a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Buster is a playful and affectionate Boston Terrier, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "20",
+            "name": "Duke",
+            "type": "dog",
+            "breed": "Great Dane",
+            "age": "adult",
+            "size": "giant",
+            "energy": "medium",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "high",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "high",
+            "location": {
+                "city": "Miami",
+                "state": "FL",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Duke is a calm and affectionate Great Dane, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "71",
+            "name": "Thumper",
+            "type": "rabbit",
+            "breed": "Netherland Dwarf",
+            "age": "young",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1707625463783-8ef54f775c1a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Thumper is a playful young Netherland Dwarf who loves to hop around and play with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "72",
+            "name": "Snowflake",
+            "type": "rabbit",
+            "breed": "Lionhead",
+            "age": "adult",
+            "size": "medium",
+            "energy": "medium",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "moderate",
+            "location": {
+                "city": "Denver",
+                "state": "CO",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1707625463749-50e1acf931c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Snowflake is a calm and affectionate Lionhead rabbit who loves cuddling with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "73",
+            "name": "Bunny",
+            "type": "rabbit",
+            "breed": "Holland Lop",
+            "age": "young",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Portland",
+                "state": "OR",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1526328716536-b3775b2696a0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Bunny is a playful young Holland Lop who enjoys hopping around and playing with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "74",
+            "name": "Clover",
+            "type": "rabbit",
+            "breed": "English Angora",
+            "age": "adult",
+            "size": "medium",
+            "energy": "medium",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "high",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "high",
+            "location": {
+                "city": "Seattle",
+                "state": "WA",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1597306599196-bf148477596b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Clover is a calm and affectionate English Angora rabbit who loves to be petted by kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "75",
+            "name": "Hazel",
+            "type": "rabbit",
+            "breed": "Mini Rex",
+            "age": "young",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Austin",
+                "state": "TX",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1655966113037-61beab9c332c?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Hazel is a playful young Mini Rex who enjoys hopping around and playing with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "76",
+            "name": "Willow",
+            "type": "rabbit",
+            "breed": "French Lop",
+            "age": "adult",
+            "size": "large",
+            "energy": "low",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "moderate",
+            "location": {
+                "city": "Miami",
+                "state": "FL",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1538640206218-edd12e7624fc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Willow is a calm and affectionate French Lop rabbit who loves to be petted by kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "77",
+            "name": "Thistle",
+            "type": "rabbit",
+            "breed": "American Fuzzy Lop",
+            "age": "young",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "high",
+            "location": {
+                "city": "Chicago",
+                "state": "IL",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1667155652500-aa666676fa39?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Thistle is a playful young American Fuzzy Lop who enjoys hopping around and playing with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "78",
+            "name": "Poppy",
+            "type": "rabbit",
+            "breed": "Dutch",
+            "age": "adult",
+            "size": "medium",
+            "energy": "medium",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "moderate",
+            "location": {
+                "city": "San Diego",
+                "state": "CA",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1674160356433-8fb113bc47c2?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Poppy is a calm and affectionate Dutch rabbit who loves to be petted by kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "79",
+            "name": "Marshmallow",
+            "type": "rabbit",
+            "breed": "Mini Lop",
+            "age": "young",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "New York",
+                "state": "NY",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1628852303716-6e27f03aa533?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Marshmallow is a playful young Mini Lop who enjoys hopping around and playing with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "80",
+            "name": "Pepper",
+            "type": "rabbit",
+            "breed": "Flemish Giant",
+            "age": "adult",
+            "size": "large",
+            "energy": "low",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "moderate",
+            "location": {
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1718211766162-e5d2413d88d6?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Pepper is a calm and affectionate Flemish Giant rabbit who loves to be petted by kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "81",
+            "name": "Basil",
+            "type": "rabbit",
+            "breed": "Havana",
+            "age": "young",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Houston",
+                "state": "TX",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1718211766261-bdbc5e37d5b8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Basil is a playful young Havana who enjoys hopping around and playing with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "82",
+            "name": "Nibbles",
+            "type": "rabbit",
+            "breed": "Jersey Wooly",
+            "age": "adult",
+            "size": "small",
+            "energy": "low",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "high",
+            "location": {
+                "city": "Phoenix",
+                "state": "AZ",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1660675734346-5a70f338f1ea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Nibbles is a calm and affectionate Jersey Wooly rabbit who loves to be petted by kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "86",
+            "name": "Sunny",
+            "type": "bird",
+            "breed": "Canary",
+            "age": "young",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Miami",
+                "state": "FL",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1675714692342-01dfd2e6b6b5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Sunny is a cheerful young Canary who loves to sing and interact with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "87",
+            "name": "Sky",
+            "type": "bird",
+            "breed": "Parakeet",
+            "age": "adult",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Orlando",
+                "state": "FL",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1480044965905-02098d419e96?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Sky is a calm and affectionate Parakeet who enjoys being around kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "88",
+            "name": "Rainbow",
+            "type": "bird",
+            "breed": "Parrot",
+            "age": "adult",
+            "size": "medium",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "high",
+            "temperament": [
+                "playful",
+                "talkative"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "moderate",
+            "location": {
+                "city": "Seattle",
+                "state": "WA",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1506799688517-a81d6bd3df37?q=80&w=1989&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Rainbow is a playful and talkative Parrot, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "89",
+            "name": "Tweety",
+            "type": "bird",
+            "breed": "Budgerigar",
+            "age": "young",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Portland",
+                "state": "OR",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1555169062-013468b47731?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Tweety is a playful young Budgerigar who loves to chirp and interact with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "90",
+            "name": "Kiwi",
+            "type": "bird",
+            "breed": "Lovebird",
+            "age": "young",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Austin",
+                "state": "TX",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1530442620790-29fad255207a?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Kiwi is a young and affectionate Lovebird who enjoys spending time with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "91",
+            "name": "Coco",
+            "type": "bird",
+            "breed": "Cockatiel",
+            "age": "adult",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "calm"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1548960095-770e3e6364de?q=80&w=1885&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Coco is a calm Cockatiel who enjoys being around kids and whistling melodies.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "92",
+            "name": "Pepper",
+            "type": "bird",
+            "breed": "Macaw",
+            "age": "adult",
+            "size": "large",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "high",
+            "temperament": [
+                "playful",
+                "talkative"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "moderate",
+            "location": {
+                "city": "Boston",
+                "state": "MA",
+                "country": "USA"
+            },
+            "imageUrl": "https://media.istockphoto.com/id/475211029/photo/black-capped-chickadee-poecile-atricapilla-isolated.jpg?s=1024x1024&w=is&k=20&c=ELs6wrDEnIdasgMHHSbhNfe7h2uSeL689BKBez1NB48=",
+            "description": "Pepper is a playful and talkative Macaw, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "93",
+            "name": "Blue",
+            "type": "bird",
+            "breed": "Blue Jay",
+            "age": "young",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Chicago",
+                "state": "IL",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1510325805092-2951ab330b7d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Blue is a playful young Blue Jay who loves to fly and interact with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "94",
+            "name": "Pico",
+            "type": "bird",
+            "breed": "Finch",
+            "age": "young",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "calm"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Houston",
+                "state": "TX",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1506031836469-0c356b620b54?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Pico is a calm Finch who enjoys singing and being around kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "95",
+            "name": "Sunny",
+            "type": "bird",
+            "breed": "Canary",
+            "age": "adult",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "San Antonio",
+                "state": "TX",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1593677209564-fb326a3e1f09?q=80&w=2014&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Sunny is a calm and affectionate Canary who loves singing for kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "96",
+            "name": "Mango",
+            "type": "bird",
+            "breed": "Parakeet",
+            "age": "young",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Dallas",
+                "state": "TX",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1511823991948-4d877be80581?q=80&w=1898&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Mango is a playful young Parakeet who loves to chirp and interact with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "97",
+            "name": "Jazz",
+            "type": "bird",
+            "breed": "Cockatoo",
+            "age": "adult",
+            "size": "large",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "high",
+            "temperament": [
+                "playful",
+                "talkative"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "moderate",
+            "location": {
+                "city": "New York",
+                "state": "NY",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1496324072849-ce00ab4660fd?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Jazz is a playful and talkative Cockatoo, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "98",
+            "name": "Lemon",
+            "type": "bird",
+            "breed": "Canary",
+            "age": "young",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Orlando",
+                "state": "FL",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1549997380-591bf8f652ca?q=80&w=1989&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Lemon is a playful young Canary who loves to sing and interact with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "101",
+            "name": "Whiskers",
+            "type": "cat",
+            "breed": "Siamese",
+            "age": "adult",
+            "size": "medium",
+            "energy": "medium",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "affectionate",
+                "playful"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "New York",
+                "state": "NY",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1667099521841-8078e09b47f7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Whiskers is an affectionate Siamese cat who loves to play and be around people.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "68",
+            "name": "Luna",
+            "type": "cat",
+            "breed": "Maine Coon",
+            "age": "young",
+            "size": "large",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "high",
+            "location": {
+                "city": "Seattle",
+                "state": "WA",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1516280030429-27679b3dc9cf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Luna is a playful and affectionate Maine Coon, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "120",
+            "name": "Milo",
+            "type": "cat",
+            "breed": "Bengal",
+            "age": "young",
+            "size": "medium",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "high",
+            "temperament": [
+                "playful",
+                "intelligent"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "moderate",
+            "location": {
+                "city": "Austin",
+                "state": "TX",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1536590158209-e9d615d525e4?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Milo is a playful and intelligent Bengal cat, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "66",
+            "name": "Bella",
+            "type": "cat",
+            "breed": "Persian",
+            "age": "adult",
+            "size": "large",
+            "energy": "low",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "high",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "high",
+            "location": {
+                "city": "Dallas",
+                "state": "TX",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1677545182067-26ac518ef64f?q=80&w=1912&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Bella is a calm and affectionate Persian cat, great with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "67",
+            "name": "Shadow",
+            "type": "cat",
+            "breed": "Russian Blue",
+            "age": "senior",
+            "size": "medium",
+            "energy": "low",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "medical"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "San Diego",
+                "state": "CA",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Shadow is a calm and affectionate Russian Blue with some medical needs, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "49",
+            "name": "Oliver",
+            "type": "cat",
+            "breed": "British Shorthair",
+            "age": "young",
+            "size": "large",
+            "energy": "medium",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "moderate",
+            "location": {
+                "city": "Chicago",
+                "state": "IL",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1536589961747-e239b2abbec2?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Oliver is a calm and affectionate British Shorthair, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "45",
+            "name": "Lucy",
+            "type": "cat",
+            "breed": "Sphynx",
+            "age": "adult",
+            "size": "medium",
+            "energy": "high",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "high",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Miami",
+                "state": "FL",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1552933529-e359b2477252?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Lucy is a playful and affectionate Sphynx cat, great with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "43",
+            "name": "Simba",
+            "type": "cat",
+            "breed": "Savannah",
+            "age": "young",
+            "size": "large",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "high",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "moderate",
+            "location": {
+                "city": "Phoenix",
+                "state": "AZ",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Simba is a playful and affectionate Savannah cat, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "53",
+            "name": "Chloe",
+            "type": "cat",
+            "breed": "Scottish Fold",
+            "age": "adult",
+            "size": "medium",
+            "energy": "low",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "moderate",
+            "location": {
+                "city": "Boston",
+                "state": "MA",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1677101221533-52b45823a2dc?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Chloe is a calm and affectionate Scottish Fold, great with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "50",
+            "name": "Leo",
+            "type": "cat",
+            "breed": "Abyssinian",
+            "age": "young",
+            "size": "medium",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "playful",
+                "intelligent"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "low",
+            "location": {
+                "city": "Jacksonville",
+                "state": "FL",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1518843025960-d60217f226f5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Leo is a playful and intelligent Abyssinian cat, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "21",
+            "name": "Coco",
+            "type": "cat",
+            "breed": "Ragdoll",
+            "age": "adult",
+            "size": "large",
+            "energy": "low",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "high",
+            "location": {
+                "city": "New York",
+                "state": "NY",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1673967831980-1d377baaded2?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Coco is a calm and affectionate Ragdoll cat, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "22",
+            "name": "Mittens",
+            "type": "cat",
+            "breed": "Domestic Shorthair",
+            "age": "adult",
+            "size": "medium",
+            "energy": "medium",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "moderate",
+            "location": {
+                "city": "Denver",
+                "state": "CO",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1548366086-7f1b76106622?q=80&w=1952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Mittens is a playful and affectionate Domestic Shorthair cat, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "23",
+            "name": "Lily",
+            "type": "cat",
+            "breed": "Burmese",
+            "age": "young",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "San Antonio",
+                "state": "TX",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1517331156700-3c241d2b4d83?q=80&w=2068&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Lily is a playful and affectionate Burmese cat, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "24",
+            "name": "Sophie",
+            "type": "cat",
+            "breed": "Himalayan",
+            "age": "adult",
+            "size": "medium",
+            "energy": "low",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "high",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "high",
+            "location": {
+                "city": "Charlotte",
+                "state": "NC",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Sophie is a calm and affectionate Himalayan cat, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "25",
+            "name": "Oscar",
+            "type": "cat",
+            "breed": "Oriental Shorthair",
+            "age": "young",
+            "size": "medium",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful",
+                "intelligent"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "low",
+            "location": {
+                "city": "Denver",
+                "state": "CO",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Oscar is a playful and intelligent Oriental Shorthair cat, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "26",
+            "name": "Jasper",
+            "type": "cat",
+            "breed": "Siberian",
+            "age": "young",
+            "size": "large",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "high",
+            "location": {
+                "city": "Atlanta",
+                "state": "GA",
+                "country": "USA"
+            },
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1667099522743-6b233d408465?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Jasper is a playful and affectionate Siberian cat, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "27",
+            "name": "Cleo",
+            "type": "cat",
+            "breed": "Egyptian Mau",
+            "age": "adult",
+            "size": "medium",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "moderate",
+            "location": {
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1577023311546-cdc07a8454d9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Cleo is a playful and affectionate Egyptian Mau, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "28",
+            "name": "Nala",
+            "type": "cat",
+            "breed": "Turkish Angora",
+            "age": "young",
+            "size": "medium",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "moderate",
+            "temperament": [
+                "playful",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "high",
+            "location": {
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1516750484197-6b28d10c91ea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Nala is a playful and affectionate Turkish Angora, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "29",
+            "name": "Zoe",
+            "type": "cat",
+            "breed": "Devon Rex",
+            "age": "adult",
+            "size": "small",
+            "energy": "high",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "playful",
+                "intelligent"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "well-trained",
+            "shedding": "low",
+            "location": {
+                "city": "Portland",
+                "state": "OR",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1535268647677-300dbf3d78d1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Zoe is a playful and intelligent Devon Rex, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "30",
+            "name": "Misty",
+            "type": "cat",
+            "breed": "Chartreux",
+            "age": "adult",
+            "size": "medium",
+            "energy": "medium",
+            "goodWith": [
+                "kids",
+                "otherPets"
+            ],
+            "care": "low",
+            "temperament": [
+                "calm",
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "moderate",
+            "location": {
+                "city": "Miami",
+                "state": "FL",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1568043210943-0e8aac4b9734?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Misty is a calm and affectionate Chartreux cat, great with kids and other pets.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "99",
+            "name": "Peach",
+            "type": "bird",
+            "breed": "Lovebird",
+            "age": "young",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "affectionate"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1517880218277-cb30ad3be726?q=80&w=2027&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Peach is a young and affectionate Lovebird who enjoys spending time with kids.",
+            "availableForAdoption": true
+        },
+        {
+            "id": "100",
+            "name": "Chirpy",
+            "type": "bird",
+            "breed": "Finch",
+            "age": "adult",
+            "size": "small",
+            "energy": "medium",
+            "goodWith": [
+                "kids"
+            ],
+            "care": "low",
+            "temperament": [
+                "calm"
+            ],
+            "specialNeeds": [
+                "none"
+            ],
+            "training": "basic",
+            "shedding": "low",
+            "location": {
+                "city": "Chicago",
+                "state": "IL",
+                "country": "USA"
+            },
+            "imageUrl": "https://images.unsplash.com/photo-1618098750285-9402745c67e7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Chirpy is a calm Finch who enjoys singing and being around kids.",
+            "availableForAdoption": true
+        }
+    ]
+}
